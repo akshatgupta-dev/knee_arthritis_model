@@ -34,7 +34,7 @@ After training, I obtained the following results:
 
 ![Training and Validation Results](image.png)
 
-> Screenshot shows the final results from my training, including loss and accuracy curves.
+> Screenshot shows the final results from my training
 
 ### Insights and Learnings
 
