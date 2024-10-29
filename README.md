@@ -34,6 +34,8 @@ The dataset contains labeled X-ray images, structured into five categories (0 to
 
 > Screenshot shows the final results from my training
 
+
+
 ## Tools and Libraries Used
 - **PyTorch**: For building and training the CNN model.
 - **TQDM**: For displaying real-time progress in the training loop.
